@@ -1,40 +1,18 @@
-# Hello, I'm Kayman 👋
+# 💫 About Me:
+About Me<br><br>I am a Machine Learning and Data Science enthusiast currently pursuing a Bachelor of Computer Science in Artificial Intelligence at Multimedia University, Malaysia. I enjoy building intelligent systems that can solve real-world problems using data-driven approaches.<br>My work focuses on machine learning, natural language processing, computer vision, and statistical modeling. I have experience building predictive models, performing data analysis, and developing end-to-end machine learning pipelines.<br>I am particularly interested in applying machine learning to solve real-world challenges and continuously improving my knowledge in AI, data science, and cloud technologies.<br><br>What I Am Currently Working On<br><br>Machine learning model development and evaluation<br>Feature engineering and model optimization<br>Deploying machine learning models using FastAPI<br>Learning Docker and MLOps practices<br>Building real-world data science projects for production environments<br><br>Machine Learning Workflow<br><br>Problem definition and dataset understanding<br>Data cleaning and preprocessing<br>Exploratory data analysis and visualization<br>Feature engineering and feature selection<br>Model training and hyperparameter tuning<br>Model evaluation using appropriate metrics<br>Model deployment and monitoring<br><br>Model Evaluation Metrics<br><br>Accuracy<br>Precision<br>Recall<br>F1 Score<br>Confusion Matrix<br>ROC-AUC<br><br>Data Visualization Tools<br><br>Matplotlib<br>Seaborn<br>Statistical plotting and exploratory analysis<br><br>Tech Stack<br><br>Python<br>NumPy<br>Pandas<br>Matplotlib<br>Seaborn<br>SciPy<br>Scikit-learn<br>TensorFlow<br>PyTorch<br>Keras<br><br>Machine Learning Areas<br><br>Supervised Learning<br>Unsupervised Learning<br>Regression Models<br>Classification Models<br>Clustering Algorithms<br>Dimensionality Reduction<br>Time Series Analysis<br><br>AI Domains<br><br>Machine Learning<br>Deep Learning<br>Natural Language Processing<br>Computer Vision<br>Statistical Modeling<br><br>Model Deployment Methods<br><br>FastAPI for serving machine learning models<br>REST API integration for predictions<br>Docker for containerizing ML applications<br>Integration with web applications and dashboards<br><br>Featured Projects<br><br>Student Placement Prediction<br>Built a classification system using Logistic Regression, Decision Tree, and Random Forest models to predict student placement outcomes while handling class imbalance.<br><br>House Price Prediction<br>Developed a regression model to predict house prices using structured data and feature engineering techniques.<br><br>Insurance Charge Prediction<br>Built a regression model that predicts insurance charges using demographic and health-related attributes.<br><br>Airline Sentiment Analysis<br>Developed an NLP pipeline that analyzes airline passenger reviews and performs sentiment classification.<br><br><br>Career Interests<br><br>Machine Learning Engineer<br>Data Scientist<br>AI Engineer<br>Data Analyst
 
-I'm a Data Science & Machine Learning enthusiast passionate about building intelligent systems and solving real-world problems.
 
----
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/kaymansrinivasan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kaymansrinivasan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kayman-srinivasan-2826b1347/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/kaymansrinivasan/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kaymansrinivas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaymansrinivasan17@gmail.com) 
 
-## 🚀 Tech Stack
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kaymansrinivasan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kaymansrinivasan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaymansrinivasan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- SQL
-- FastAPI
-- Docker
-- Git
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-## 📊 Projects
-
-- House Price Prediction
-- Insurance Charge Prediction
-- Student Placement Prediction
-
----
-
-## 📚 Currently Learning
-
-- Advanced Machine Learning
-- Model Deployment with FastAPI
-- MLOps
-
----
-
-## 🌐 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/kayman-srinivasan-2826b1347/)
-- [Twitter](https://x.com/kaymansrinivas)
-- Portfolio
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
