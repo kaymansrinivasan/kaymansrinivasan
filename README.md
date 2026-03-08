@@ -15,7 +15,6 @@ I am a Machine Learning and Data Science enthusiast currently pursuing a Bachelo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kaymansrinivasan&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
