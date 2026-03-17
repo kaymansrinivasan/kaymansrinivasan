@@ -1,5 +1,5 @@
 # 💫 Hi, Kayman Srinivasan here!
-I am a Machine Learning and Data Science enthusiast currently pursuing a Bachelor of Computer Science in Artificial Intelligence at Multimedia University, Malaysia. I enjoy building intelligent systems that can solve real-world problems using data-driven approaches.<br>My work focuses on machine learning, natural language processing, computer vision, and statistical modeling. I have experience building predictive models, performing data analysis, and developing end-to-end machine learning pipelines.<br>I am particularly interested in applying machine learning to solve real-world challenges and continuously improving my knowledge in AI, data science, and cloud technologies.
+I am a Machine Learning and Data Science enthusiast currently pursuing a Bachelor of Computer Science in Artificial Intelligence at Multimedia University, Malaysia. I enjoy building intelligent systems that can solve real-world problems using data-driven approaches.<br>My work focuses on machine learning, natural language processing, computer vision, and statistical modeling. I have experience building predictive models, performing data analysis, and developing end-to-end machine learning pipelines.<br>I am particularly interested in applying machine learning to solve real-world challenges and continuously improving my knowledge in AI, data science, and cloud technologies. Stats + Analysis + Build model + Metric + Deploye + Host 
 
 
 # 💻 Tech Stack:
@@ -9,7 +9,7 @@ I am a Machine Learning and Data Science enthusiast currently pursuing a Bachelo
 ![](https://nirzak-streak-stats.vercel.app/?user=kaymansrinivasan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaymansrinivasan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Dev Quote
+### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
